@@ -2129,6 +2129,74 @@ public enum SpriteOverride
 	SAILING_CREWMATE_PLAYER_MALE_STATION(7104, Folder.SAILING),
 	SAILING_CREWMATE_PLAYER_FEMALE(7105, Folder.SAILING),
 	SAILING_CREWMATE_PLAYER_FEMALE_STATION(7106, Folder.SAILING),
+
+	TFA_BOOK_CORNER_TOP_LEFT(SpriteID.TfaBackgroundBookTfa01._0, Folder.TFA),
+	TFA_BOOK_EDGE_TOP(SpriteID.TfaBackgroundBookTfa01._1, Folder.TFA),
+	TFA_BOOK_CLASP_TOP(SpriteID.TfaBackgroundBookTfa01._2, Folder.TFA),
+	TFA_BOOK_CORNER_TOP_RIGHT(SpriteID.TfaBackgroundBookTfa01._3, Folder.TFA),
+	TFA_BOOK_EDGE_LEFT(SpriteID.TfaBackgroundBookTfa01._4, Folder.TFA),
+	TFA_BOOK_BACKGROUND(SpriteID.TfaBackgroundBookTfa01._5, Folder.TFA),
+	TFA_BOOK_SPINE(SpriteID.TfaBackgroundBookTfa01._6, Folder.TFA),
+	TFA_BOOK_EDGE_RIGHT(SpriteID.TfaBackgroundBookTfa01._7, Folder.TFA),
+	TFA_BOOK_CORNER_BOTTOM_LEFT(SpriteID.TfaBackgroundBookTfa01._8, Folder.TFA),
+	TFA_BOOK_EDGE_BOTTOM(SpriteID.TfaBackgroundBookTfa01._9, Folder.TFA),
+	TFA_BOOK_CLASP_BOTTOM(SpriteID.TfaBackgroundBookTfa01._10, Folder.TFA),
+	TFA_BOOK_CORNER_BOTTOM_RIGHT(SpriteID.TfaBackgroundBookTfa01._11, Folder.TFA),
+
+	TFA_PANEL_CORNER_TOP_LEFT(SpriteID.TfaTabsBookTfa01._0, Folder.TFA),
+	TFA_PANEL_EDGE_TOP(SpriteID.TfaTabsBookTfa01._1, Folder.TFA),
+	TFA_PANEL_CORNER_TOP_RIGHT(SpriteID.TfaTabsBookTfa01._2, Folder.TFA),
+	TFA_PANEL_EDGE_LEFT(SpriteID.TfaTabsBookTfa01._6, Folder.TFA),
+	TFA_PANEL_BACKGROUND(SpriteID.TfaTabsBookTfa01._7, Folder.TFA),
+	TFA_PANEL_EDGE_RIGHT(SpriteID.TfaTabsBookTfa01._8, Folder.TFA),
+	TFA_PANEL_CORNER_BOTTOM_LEFT(SpriteID.TfaTabsBookTfa01._12, Folder.TFA),
+	TFA_PANEL_EDGE_BOTTOM(SpriteID.TfaTabsBookTfa01._13, Folder.TFA),
+	TFA_PANEL_CORNER_BOTTOM_RIGHT(SpriteID.TfaTabsBookTfa01._14, Folder.TFA),
+
+	TFA_TAB_CORNER_TOP_LEFT(SpriteID.TfaTabsBookTfa01._3, Folder.TFA),
+	TFA_TAB_EDGE_TOP(SpriteID.TfaTabsBookTfa01._4, Folder.TFA),
+	TFA_TAB_CORNER_TOP_RIGHT(SpriteID.TfaTabsBookTfa01._5, Folder.TFA),
+	TFA_TAB_EDGE_LEFT(SpriteID.TfaTabsBookTfa01._9, Folder.TFA),
+	TFA_TAB_BACKGROUND(SpriteID.TfaTabsBookTfa01._10, Folder.TFA),
+	TFA_TAB_EDGE_RIGHT(SpriteID.TfaTabsBookTfa01._11, Folder.TFA),
+	TFA_TAB_CORNER_BOTTOM_LEFT(SpriteID.TfaTabsBookTfa01._15, Folder.TFA),
+	TFA_TAB_EDGE_BOTTOM(SpriteID.TfaTabsBookTfa01._16, Folder.TFA),
+	TFA_TAB_CORNER_BOTTOM_RIGHT(SpriteID.TfaTabsBookTfa01._17, Folder.TFA),
+
+	TFA_PANEL_DECO_TOP_LEFT(SpriteID.TfaBorderDecoTfa01._0, Folder.TFA),
+	TFA_PANEL_DECO_TOP_RIGHT(SpriteID.TfaBorderDecoTfa01._1, Folder.TFA),
+	TFA_PANEL_DECO_BOTTOM_LEFT(SpriteID.TfaBorderDecoTfa01._2, Folder.TFA),
+	TFA_PANEL_DECO_BOTTOM_RIGHT(SpriteID.TfaBorderDecoTfa01._3, Folder.TFA),
+	TFA_TAB_DECO_TOP_LEFT(SpriteID.TfaBorderDecoTfa01._4, Folder.TFA),
+	TFA_TAB_DECO_TOP_RIGHT(SpriteID.TfaBorderDecoTfa01._5, Folder.TFA),
+	TFA_TAB_DECO_BOTTOM_LEFT(SpriteID.TfaBorderDecoTfa01._6, Folder.TFA),
+	TFA_TAB_DECO_BOTTOM_RIGHT(SpriteID.TfaBorderDecoTfa01._7, Folder.TFA),
+
+	TFA_SCROLLBAR_THUMB_TOP(SpriteID.TfaBarScrollVertical01._0, Folder.TFA),
+	TFA_SCROLLBAR_THUMB_MIDDLE(SpriteID.TfaBarScrollVertical01._1, Folder.TFA),
+	TFA_SCROLLBAR_THUMB_BOTTOM(SpriteID.TfaBarScrollVertical01._2, Folder.TFA),
+	TFA_SCROLLBAR_TRACK(SpriteID.TfaBarScrollVertical01._3, Folder.TFA),
+	TFA_SCROLLBAR_ARROW_UP(SpriteID.TfaButtonArrowTfa01._0, Folder.TFA),
+	TFA_SCROLLBAR_ARROW_DOWN(SpriteID.TfaButtonArrowTfa01._1, Folder.TFA),
+
+	TFA_BOSS_OVERALL(SpriteID.IconBoss25x25.THE_FRACTURED_ARCHIVE, Folder.TFA),
+	TFA_BOSS_ARCHIVE_GUARDIAN(SpriteID.IconBoss25x25._73, Folder.TFA),
+	TFA_BOSS_DREADNOTH(SpriteID.IconBoss25x25._74, Folder.TFA),
+	TFA_BOSS_XARTH(SpriteID.IconBoss25x25._75, Folder.TFA),
+	TFA_BOSS_DAGONHAI(SpriteID.IconBoss25x25._76, Folder.TFA),
+	TFA_BOSS_EZEKIEL(SpriteID.IconBoss25x25._77, Folder.TFA),
+	TFA_BOSS_MOIA(SpriteID.IconBoss25x25._78, Folder.TFA),
+	TFA_BOSS_BORK(SpriteID.IconBoss25x25._79, Folder.TFA),
+	TFA_BOSS_OCELLUS(SpriteID.IconBoss25x25._80, Folder.TFA),
+
+	TFA_BOSS_ARCHIVE_GUARDIAN_LOCKED(SpriteID.TfaIconBossBlackout01._0, Folder.TFA),
+	TFA_BOSS_DREADNOTH_LOCKED(SpriteID.TfaIconBossBlackout01._1, Folder.TFA),
+	TFA_BOSS_XARTH_LOCKED(SpriteID.TfaIconBossBlackout01._2, Folder.TFA),
+	TFA_BOSS_DAGONHAI_LOCKED(SpriteID.TfaIconBossBlackout01._3, Folder.TFA),
+	TFA_BOSS_EZEKIEL_LOCKED(SpriteID.TfaIconBossBlackout01._4, Folder.TFA),
+	TFA_BOSS_MOIA_LOCKED(SpriteID.TfaIconBossBlackout01._5, Folder.TFA),
+	TFA_BOSS_BORK_LOCKED(SpriteID.TfaIconBossBlackout01._6, Folder.TFA),
+	TFA_BOSS_OCELLUS_LOCKED(SpriteID.TfaIconBossBlackout01._7, Folder.TFA),
 	;
 
 	@Getter
@@ -2204,6 +2272,7 @@ public enum SpriteOverride
 		SAILING,
 		CHEVRON,
 		ICON,
-		MINIGAME_TELEPORT
+		MINIGAME_TELEPORT,
+		TFA
 	}
 }
